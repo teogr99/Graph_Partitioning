@@ -1,4 +1,6 @@
-# Graph Partitioning — Diploma Thesis
+#       DIPLOMA THESIS 
+
+#     Graph Partitioning 
 
 **Theodoros Kesoglou**  
 Department of Electrical and Computer Engineering  
