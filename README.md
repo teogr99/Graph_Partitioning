@@ -62,3 +62,5 @@ The thesis covers:
 - Kernighan-Lin algorithm (1970) and a degree-normalized variant
 
 **Keywords:** Graph Partitioning, Laplacian, Spectral Clustering, Normalized Cut, Kernighan-Lin
+
+**If files cannot compile use: nbviewer.org File 1: https://nbviewer.org/github/teogr99/Graph_Partitioning/blob/main/01_introduction.ipynb
