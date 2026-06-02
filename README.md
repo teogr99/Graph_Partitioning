@@ -28,9 +28,8 @@ The thesis studies three distinct approaches to this problem, each with a differ
 ```
 graph-partitioning/
 ├── 01_introduction.ipynb          # Graph theory foundations & linear algebra tools
-├── 02_spectral_clustering.ipynb   # K-Means + Spectral Clustering algorithm
-├── 03_normalized_cut.ipynb        # Normalized Cut (single + recursive)
-├── 04_kernighan_lin.ipynb         # Kernighan-Lin + custom variant + comparison
+├── 02_spectral_clustering.ipynb   # K-Means + Spectral Clustering algorithm + Normalized cut
+├── 03_kernighan_lin.ipynb         # Kernighan-Lin + custom variant + comparison
 └── README.md
 ```
 
